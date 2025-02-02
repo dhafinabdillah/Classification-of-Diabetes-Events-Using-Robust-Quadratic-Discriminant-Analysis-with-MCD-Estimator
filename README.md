@@ -1,5 +1,7 @@
-# Classification-of-Diabetes-Events-Using-Robust-Quadratic-Discriminant-Analysis-with-MCD-Estimator
+**Title** : Classification-of-Diabetes-Events-Using-Robust-Quadratic-Discriminant-Analysis-with-MCD-Estimator
 
-Objective   : Wanna know performances of Robust Quadratic Discriminant Analysis with MCD Estimator by compare it with Quadratic Discriminant Analysis
-Limitation  : Features with 0 values (except Pregnancies) are deleted, around 376 observations.
-Tools       : R version 4.4.2 // R Studio 2024. 12.0
+**Objective** : To evaluate the performance of Robust Quadratic Discriminant Analysis with the MCD estimator by comparing it with Quadratic Discriminant Analysis
+
+**Limitation** : Features with 0 values (except Pregnancies), around 376 observations, are deleted
+
+**Tools** : R version 4.4.2 // R Studio 2024. 12.0
